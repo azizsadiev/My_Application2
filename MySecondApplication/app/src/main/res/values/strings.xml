@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Second Application</string>
+    <string name="lightison">Light is On</string>
+    <string name="lightisoff">Light is Off</string>
+</resources>
